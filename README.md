@@ -1,5 +1,5 @@
 # Music-Management-System
-This program are a simple solution of a problem proposused in class. The initial problem was the organization of a determined number of musics in vectors, separating one list of favorites musics.
+This program is a simple solution to a problem proposed in class. The initial problem was the organization of a certain number of songs in vectors, separating a list of favorite songs.
 
 ## Operation
 
